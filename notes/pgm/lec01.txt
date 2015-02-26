@@ -26,3 +26,14 @@ c) Intercausal Reasoning: In case of multiple inter related
 
    The third pattern is particulary interesting but needs to
    be studied more in detail.
+
+
+One of the main benefits of a Bayesian Network is the
+compactness in representation. If we consider the joint
+distribution without any of the conditional independence
+assumptions then there are exponentially large number
+of parameters in the joint model compared to the factorized
+model corresponding to the Bayes Network. This significant
+decrease in the number of parameters is advantageous:
+computationally, storage wise as well as in terms of
+interpretation.
