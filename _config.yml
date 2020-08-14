@@ -1,0 +1,12 @@
+title: Sandeep Soni
+url: "https://sandeepsoni.github.io/"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+    style: compressed
+    sass_dir: _sass

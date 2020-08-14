@@ -1,0 +1,14 @@
+- name: "Contact"
+  link: "https://sandeepsoni.github.io/contact"
+
+- name: "Code"
+  link: "https://github.com/sandeepsoni"
+
+- name: "Publications"
+  link: "https://sandeepsoni.github.io/publications"
+
+- name: "CV"
+  link: "https://sandeepsoni.github.io/cv"
+
+- name: "About"
+  link: "https://sandeepsoni.github.io/"
