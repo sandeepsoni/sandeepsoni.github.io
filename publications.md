@@ -44,7 +44,7 @@ In VIS4DH Workshop (2017)
 [[PDF](https://www.cc.gatech.edu/~stasko/papers/vis4dh17-thrones.pdf)]
 
 **The social dynamics of language change in online networks**
-Rahul Goel, Sandeep Soni, Naman Goyal, John Paparrizos, Hanaah Wallach, Fernando Diaz, and Jacob Eisenstein,
+Rahul Goel, Sandeep Soni, Naman Goyal, John Paparrizos, Hanah Wallach, Fernando Diaz, and Jacob Eisenstein,
 In SocInfo (2016)
 [[PDF](https://arxiv.org/pdf/1609.02075.pdf)][[Press](https://gretchenmcculloch.com/book/)]
 
