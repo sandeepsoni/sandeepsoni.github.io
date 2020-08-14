@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="me.png">
 
-I'm a researcher working mainly in the areas of computational social science and computational humanities. My interests are in modeling language change and, in particular, the social dynamics of language change. This work often involves the use of methods in unsupervised machine learning, natural language processing, and network science. My thesis is on using computational methods to model and quantify network influence in the process of language change.
+I'm a researcher working mainly in the areas of computational social science and computational humanities. My interests are in modeling language change and, in particular, the social dynamics of language change. This work often involves the use of methods in unsupervised machine learning, natural language processing, and network science. My PhD thesis is on using computational methods to model and quantify network influence in the process of language change.
 
 I'm currently a PhD candidate in Computer Science in the [School of Interactive Computing](https://www.ic.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), where I'm advised by [Jacob Eisenstein](https://jacobeisenstein.github.io/). I hold a Masters in Computer Science also from Georgia Institute of Technology. I have been a research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Max Plank Institute of Software Systems](https://www.mpi-sws.org/), and [Information Sciences Institute](https://www.isi.edu/).
 
@@ -27,7 +27,7 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
   </tr>
     <tr>
     <td width="15%">May 2020</td>
-    <td>New <a href=""> preprint </a> of our work on counter hate speech in COVID19 discourse on Twitter.</td>
+    <td>New <a href="https://arxiv.org/pdf/2005.12423.pdf"> preprint </a> of our work on counter hate speech in COVID19 discourse on Twitter.</td>
   </tr>
   <tr>
     <td width="15%">Jan 2020</td>
