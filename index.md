@@ -19,7 +19,7 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
 <table style="width:100%">
   <tr>
   <td width="15%"> Oct 2020</td>
-  <td> Our paper, <i>Lexical Semantic Leadership Networks in Nineteenth Century Abolitionist Newspapers</i> is accepted to the Journal of Cultural Analytics. Joint work with Lauren Klein and Jacob Eisenstein.</td>
+  <td> Our paper, <i>Lexical Semantic Leadership Networks in Nineteenth Century Abolitionist Newspapers</i> is accepted to the [Journal of Cultural Analytics](culturalanalytics.org). Joint work with Lauren Klein and Jacob Eisenstein.</td>
   </tr>
   <tr>
     <td width="15%">Aug 2020</td>
