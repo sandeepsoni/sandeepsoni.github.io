@@ -18,8 +18,12 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
 
 <table style="width:100%">
   <tr>
+  <td width="15%"> Oct 2020</td>
+  <td> Our paper, <i>Lexical Semantic Leadership Networks in Nineteenth Century Abolitionist Newspapers</i> is accepted to the Journal of Cultural Analytics. Joint work with Lauren Klein and Jacob Eisenstein.</td>
+  </tr>
+  <tr>
     <td width="15%">Aug 2020</td>
-    <td>Our paper, <i>Follow the Leader: Documents on the Leading Edge of Semantic Change Get More Citations</i> <a href="https://arxiv.org/pdf/1909.04189.pdf">[Preprint]</a>, is conditionally accepted to <a href="https://asistdl.onlinelibrary.wiley.com/journal/23301643">JASIST</a>. Joint work with Kristina Lerman and Jacob Eisenstein.</td>
+    <td>Our paper, <i>Follow the Leader: Documents on the Leading Edge of Semantic Change Get More Citations</i> <a href="https://arxiv.org/pdf/1909.04189.pdf">[Preprint]</a>, is to appear in <a href="https://asistdl.onlinelibrary.wiley.com/journal/23301643">JASIST</a>. Joint work with Kristina Lerman and Jacob Eisenstein.</td>
   </tr>
   <tr>
     <td width="15%">May 2020</td>
@@ -40,7 +44,7 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
 
 ## Selected Publications
 
-- Sandeep Soni, Lauren Klein, and Jacob Eisenstein (Under review), **Lexical Semantic Leadership Networks In Nineteenth Century Abolitionist Newspapers**, [PDF]()
+- Sandeep Soni, Lauren Klein, and Jacob Eisenstein (to appear in JCA), **Lexical Semantic Leadership Networks In Nineteenth Century Abolitionist Newspapers**, [PDF]()
 
 - Sandeep Soni, Kristina Lerman, and Jacob Eisenstein (2020), **Follow the Leader: Documents on the Leading Edge of Semantic Change Get More Citations**, *Journal of the Association for Information Science and Technology*, [PDF](https://arxiv.org/pdf/1909.04189.pdf)
 
