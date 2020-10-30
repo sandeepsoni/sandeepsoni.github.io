@@ -6,12 +6,12 @@ layout: default
 
 **Lexical Semantic Leadership Networks in Nineteenth Century Abolitionist Newspapers**
 Sandeep Soni, Lauren Klein, and Jacob Eisenstein,
-Under submission
+To appear in the Journal of Cultural Analytics
 [[PDF]()]
 
 **Follow the leader: Documents on the leading edge of semantic change get more citations**
 Sandeep Soni, Kristina Lerman, and Jacob Eisenstein,
-Conditionally accepted to JASIST (2020)
+To appear in the Journal of the Association for Information Science and Technology (2020)
 [[PDF](https://arxiv.org/pdf/1909.04189.pdf)]
 
 **Racism is a virus: anti-asian hate and counterhate in social media during the COVID-19 crisis**
