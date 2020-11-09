@@ -6,7 +6,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="me.png">
+<img class="profile-picture" src="pic.jpg">
 
 I'm a researcher working mainly in the areas of computational social science and computational humanities. My interests are in modeling language change and, in particular, the social dynamics of language change. This work often involves the use of methods in unsupervised machine learning, natural language processing, and network science. My PhD thesis is on using computational methods to model and quantify network influence in the process of language change.
 
