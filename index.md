@@ -18,8 +18,13 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
 
 <table style="width:100%">
   <tr>
+  <td width="15%"> Jan 2021</td>
+  <td> Invited to give a talk at the <a href="https://nlg.isi.edu/nl-seminar/"> USC ISI Natural Language seminar series</a>.</td>
+  </tr>
+  <tr>
+  <tr>
   <td width="15%"> Oct 2020</td>
-  <td> Our paper, <i>Lexical Semantic Leadership Networks in Nineteenth Century Abolitionist Newspapers</i> is accepted to the Journal of Cultural Analytics. Joint work with Lauren Klein and Jacob Eisenstein.</td>
+  <td> Our paper, <i>Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers</i> is accepted to the Journal of Cultural Analytics. Joint work with Lauren Klein and Jacob Eisenstein.</td>
   </tr>
   <tr>
     <td width="15%">Aug 2020</td>
@@ -44,7 +49,7 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
 
 ## Selected Publications
 
-- Sandeep Soni, Lauren Klein, and Jacob Eisenstein (to appear in JCA), **Lexical Semantic Leadership Networks In Nineteenth Century Abolitionist Newspapers**, [PDF]()
+- Sandeep Soni, Lauren Klein, and Jacob Eisenstein (to appear in JCA), **Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers**, [Link](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
 
 - Sandeep Soni, Kristina Lerman, and Jacob Eisenstein (2020), **Follow the Leader: Documents on the Leading Edge of Semantic Change Get More Citations**, *Journal of the Association for Information Science and Technology*, [PDF](https://arxiv.org/pdf/1909.04189.pdf)
 
