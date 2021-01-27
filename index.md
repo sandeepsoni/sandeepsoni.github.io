@@ -49,7 +49,7 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
 
 ## Selected Publications
 
-- Sandeep Soni, Lauren Klein, and Jacob Eisenstein (to appear in JCA), **Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers**, [Link](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
+- Sandeep Soni, Lauren Klein, and Jacob Eisenstein (2021), **Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers**, *Journal of Cultural Analytics* [Link](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
 
 - Sandeep Soni, Kristina Lerman, and Jacob Eisenstein (2020), **Follow the Leader: Documents on the Leading Edge of Semantic Change Get More Citations**, *Journal of the Association for Information Science and Technology*, [PDF](https://arxiv.org/pdf/1909.04189.pdf)
 
