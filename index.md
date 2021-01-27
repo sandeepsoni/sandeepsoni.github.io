@@ -21,20 +21,23 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
   <td width="15%"> Jan 2021</td>
   <td> Invited to give a talk at the <a href="https://nlg.isi.edu/nl-seminar/"> USC ISI Natural Language seminar series</a>.</td>
   </tr>
-  <tr>
+  
   <tr>
   <td width="15%"> Oct 2020</td>
   <td> Our paper, <i>Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers</i> is accepted to the Journal of Cultural Analytics. Joint work with Lauren Klein and Jacob Eisenstein.</td>
   </tr>
+  
   <tr>
     <td width="15%">Aug 2020</td>
     <td>Our paper, <i>Follow the Leader: Documents on the Leading Edge of Semantic Change Get More Citations</i> <a href="https://arxiv.org/pdf/1909.04189.pdf">[Preprint]</a>, is to appear in <a href="https://asistdl.onlinelibrary.wiley.com/journal/23301643">JASIST</a>. Joint work with Kristina Lerman and Jacob Eisenstein.</td>
   </tr>
+  
   <tr>
     <td width="15%">May 2020</td>
     <td>Presented my thesis proposal. I'm now a PhD candidate! </td>
   </tr>
-    <tr>
+  
+  <tr>
     <td width="15%">May 2020</td>
     <td>New <a href="https://arxiv.org/pdf/2005.12423.pdf"> preprint </a> of our work on counter hate speech in COVID19 discourse on Twitter.</td>
   </tr>
