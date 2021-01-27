@@ -38,10 +38,6 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
     <td width="15%">May 2020</td>
     <td>New <a href="https://arxiv.org/pdf/2005.12423.pdf"> preprint </a> of our work on counter hate speech in COVID19 discourse on Twitter.</td>
   </tr>
-  <tr>
-    <td width="15%">Jan 2020</td>
-    <td>Presented the findings from our <a href="https://arxiv.org/pdf/1909.04189.pdf">paper</a> at the Behavioral Insights from Text Conference, UPenn.</td>
-  </tr>
 </table>
 
 
