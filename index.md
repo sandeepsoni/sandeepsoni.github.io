@@ -46,7 +46,7 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
 
 <br>
 
-<!-- ## Selected Publications
+## Selected Publications
 
 - Sandeep Soni, Lauren Klein, and Jacob Eisenstein (2021), **Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers**, *Journal of Cultural Analytics* [Link](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
 
@@ -56,7 +56,7 @@ I'm currently a PhD candidate in Computer Science in the [School of Interactive 
 
 - Sandeep Soni, Tanushree Mitra, Eric Gilbert, and Jacob Eisenstein (2014), **Modeling Factuality Judgments in Social Media Text**, *Association of Computational Linguistics*, [PDF](https://www.aclweb.org/anthology/P14-2068.pdf)
 
-<br -->
+<br>
 
 <!-- ## Teaching
 
