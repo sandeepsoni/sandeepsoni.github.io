@@ -8,9 +8,9 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg">
 
-I'm a researcher working mainly in the areas of computational social science and computational humanities. My interests are in modeling language change and, in particular, the social dynamics of language change. This work often involves the use of methods in unsupervised machine learning, natural language processing, and network science. My PhD thesis is on using computational methods to model and quantify network influence in the process of language change.
+I research in modeling the dynamics of language with applications in computational social science and computational humanities. This work often involves the use of methods in unsupervised machine learning, natural language processing, and network science. My PhD thesis is on using computational methods to model and quantify network influence in the process of language change.
 
-I'm currently a PhD candidate in Computer Science in the [School of Interactive Computing](https://www.ic.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), where I'm advised by [Jacob Eisenstein](https://jacobeisenstein.github.io/). I hold a Masters in Computer Science also from Georgia Institute of Technology. I have been a research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Max Plank Institute of Software Systems](https://www.mpi-sws.org/), and [Information Sciences Institute](https://www.isi.edu/).
+I'm currently a postdoctoral researcher in the [School of Information](https://www.ischool.berkeley.edu) at the [University of California, Berkeley](https://www.berkeley.edu), advised by [David Bamman](https://people.ischool.berkeley.edu/~dbamman). I did my PhD in Computer Science from the [School of Interactive Computing](https://www.ic.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by [Jacob Eisenstein](https://jacobeisenstein.github.io/). I have been a research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Max Plank Institute of Software Systems](https://www.mpi-sws.org/), and [Information Sciences Institute](https://www.isi.edu/).
 
 <br> 
 
