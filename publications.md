@@ -4,19 +4,30 @@ layout: default
 
 <br>
 
+**Predicting Long-Term Citations from Short-Term Linguistic Influence**
+Sandeep Soni, David Bamman, Jacob Eisenstein,
+Findings of Empirical Methods in Natural Language Processing (2022),
+[[PDF](https://arxiv.org/pdf/2210.13628)]
+
+**Linguistic Characterization of Divisive Topics Online: Case Studies on Contentiousness in Abortion, Climate Change, and Gun Control**
+Jacob Beel, Tong Xiang, Sandeep Soni, and Diyi Yang,
+International AAAI Conference on Web and Social Media (2021)
+[[PDF](https://ojs.aaai.org/index.php/ICWSM/article/download/19270/19042)]
+
+**Racism is a virus: Anti-asian hate and counterspeech in social media during the COVID-19 crisis**
+Bing He, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, and Srijan Kumar,
+International Conference on Advances in Social Networks Analysis and Mining (2021)
+[[PDF](https://arxiv.org/pdf/2005.12423.pdf)]
+
 **Lexical Semantic Leadership Networks in Nineteenth Century Abolitionist Newspapers**
 Sandeep Soni, Lauren Klein, and Jacob Eisenstein,
-To appear in the Journal of Cultural Analytics
-[[PDF]()]
+Journal of Cultural Analytics (2021)
+[[PDF](https://arxiv.org/pdf/2103.07538.pdf)]
 
 **Follow the leader: Documents on the leading edge of semantic change get more citations**
 Sandeep Soni, Kristina Lerman, and Jacob Eisenstein,
-To appear in the Journal of the Association for Information Science and Technology (2020)
+To appear in the Journal of the Association for Information Science and Technology (2021)
 [[PDF](https://arxiv.org/pdf/1909.04189.pdf)]
-
-**Racism is a virus: anti-asian hate and counterhate in social media during the COVID-19 crisis**
-Caleb Ziems, Bing He, Sandeep Soni, and Srijan Kumar,
-[[PDF](https://arxiv.org/pdf/2005.12423.pdf)]
 
 **Characterizing activity on the deep and dark web**
 Nazgol Tavabi, Nathan Bartley, Andrés Abeliuk, Sandeep Soni, Emilio Ferrara, and Kristina Lerman,
