@@ -31,7 +31,7 @@ I'm on the job market looking for academic and industry positions that start fro
   
   <tr>
   <td width="15%"> Oct 2021</td>
-  <td> I collaborated with <a href="https://ccgilroy.com/"> Connor Gilroy </a> to give an online tutorial on language change and variation for the <a href="https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/"> NLP+CSS 201 tutorial series </a>. Check out the <a href="">material</a> we prepared.</td>
+  <td> I collaborated with <a href="https://ccgilroy.com/"> Connor Gilroy </a> to give an online tutorial on language change and variation for the <a href="https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/"> NLP+CSS 201 tutorial series </a>. Check out the <a href="https://github.com/sandeepsoni/comparing-word2vec-models">material</a> we prepared.</td>
   </tr>
   
   <tr>
