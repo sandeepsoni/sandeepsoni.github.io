@@ -83,7 +83,7 @@ I'm on the job market looking for academic and industry positions that start fro
 <br>
 
 ## Selected Publications
-- Sandeep Soni, David Bamman, and Jacob Eisenstein (2022), **Predicting Long-Term Citations from Short-Term Linguistic Influence**, *to appear in the Findings of EMNLP*[Preprint](https://arxiv.org/pdf/2210.13628)
+- Sandeep Soni, David Bamman, and Jacob Eisenstein (2022), **Predicting Long-Term Citations from Short-Term Linguistic Influence**, *to appear in the Findings of EMNLP*, [Preprint](https://arxiv.org/pdf/2210.13628)
 
 - Sandeep Soni, Lauren Klein, and Jacob Eisenstein (2021), **Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers**, *Journal of Cultural Analytics* [Link](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
 
