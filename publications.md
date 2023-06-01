@@ -4,8 +4,17 @@ layout: default
 
 <br>
 
+**Grounding Characters and Places in Narrative Texts**
+Sandeep Soni, Amanpreet Sihra, Elizabeth F. Evans, Matthew Wilkens, and David Bamman
+Association of Computational Linguistics (2023),
+[[PDF](https://arxiv.org/pdf/2305.17561.pdf)]
+
+**Speak,Memory:An Archaeology of Books Known to ChatGPT/GPT-4**
+Kent Chang, Mackenzie Cramer, Sandeep Soni, and David Bamman
+[[PDF](https://arxiv.org/abs/2305.00118)]
+
 **Predicting Long-Term Citations from Short-Term Linguistic Influence**
-Sandeep Soni, David Bamman, Jacob Eisenstein,
+Sandeep Soni, David Bamman, and Jacob Eisenstein,
 Findings of Empirical Methods in Natural Language Processing (2022),
 [[PDF](https://arxiv.org/pdf/2210.13628)]
 
