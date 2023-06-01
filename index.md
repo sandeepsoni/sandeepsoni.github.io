@@ -21,14 +21,26 @@ I'm on the job market looking for academic and industry positions that start fro
 <table style="width:100%">	  
 
   <tr>
+  <td width="15%"> May 2023</td>
+  <td> Our paper, <i> Grounding Characters and Places in Narrative Texts </i> is accepted to ACL 2023. Joint work with Amanpreet Sihra, Elizabeth F. Evans, Matthew Wilkens, and David Bamman. </td>
+  </tr> 
+
+  <tr>
+  <td width="15%"> Apr 2023</td>
+  <td> New preprint <a href="https://arxiv.org/abs/2305.00118"> <i>Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4 </i> </a> of our work on the limitations of GPT-4. Joint work with Kent Chang, Mackenzie Cramer, and David Bamman. </td>
+  </tr>  
+
+  <tr>
   <td width="15%"> Oct 2022</td>
   <td> Our paper, <i>Predicting Long-Term Citations using Short-Term Linguistic Influence</i> is accepted to Findings@EMNLP 2022. Joint work with David Bamman and Jacob Eisenstein.</td>
   </tr>  
+
   <tr>
   <td width="15%"> Jan 2022</td>
   <td> I presented the tutorial on language change and variation virtually at ICWSM 2022</td>
   </tr>
-  
+
+  <!--  
   <tr>
   <td width="15%"> Oct 2021</td>
   <td> I collaborated with <a href="https://ccgilroy.com/"> Connor Gilroy </a> to give an online tutorial on language change and variation for the <a href="https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/"> NLP+CSS 201 tutorial series </a>. Check out the <a href="https://github.com/sandeepsoni/comparing-word2vec-models">material</a> we prepared.</td>
@@ -43,6 +55,7 @@ I'm on the job market looking for academic and industry positions that start fro
   <td width="15%"> Jun 2021</td>
   <td> I defended my thesis on modeling language change from timestamped text. You can read it <a href="https://smartech.gatech.edu/handle/1853/67138">here</a>.</td>
   </tr>
+  -->
   
   <!--	
   <tr>
@@ -83,15 +96,15 @@ I'm on the job market looking for academic and industry positions that start fro
 <br>
 
 ## Selected Publications
-- Sandeep Soni, David Bamman, and Jacob Eisenstein (2022), **Predicting Long-Term Citations from Short-Term Linguistic Influence**, *to appear in the Findings of EMNLP*, [Preprint](https://arxiv.org/pdf/2210.13628)
+- Sandeep Soni, Amanpreet Sihra, Elizabeth F. Evans, Matthew Wilkens, and David Bamman (2023), **Grounding Characters and Places in Narrative Texts**, *Association of Computational Linguistics*, [PDF](https://arxiv.org/pdf/2305.17561.pdf)
+
+- Sandeep Soni, David Bamman, and Jacob Eisenstein (2022), **Predicting Long-Term Citations from Short-Term Linguistic Influence**, *Findings of EMNLP*, [Preprint](https://arxiv.org/pdf/2210.13628)
 
 - Sandeep Soni, Lauren Klein, and Jacob Eisenstein (2021), **Abolitionist Networks: Modeling Language Change in Nineteenth-Century Activist Newspapers**, *Journal of Cultural Analytics* [Link](https://culturalanalytics.org/article/18841-abolitionist-networks-modeling-language-change-in-nineteenth-century-activist-newspapers)
 
 - Sandeep Soni, Kristina Lerman, and Jacob Eisenstein (2020), **Follow the Leader: Documents on the Leading Edge of Semantic Change Get More Citations**, *Journal of the Association for Information Science and Technology*, [PDF](https://arxiv.org/pdf/1909.04189.pdf)
 
 - Rahul Goel, Sandeep Soni, Naman Goyal, John Paparizzos, Hanna Wallach, Fernando Diaz, and Jacob Eisenstein (2016), **The Social Dynamics of Language Change in Online Networks**, *Social Informatics*, [PDF](https://arxiv.org/pdf/1609.02075.pdf)
-
-- Sandeep Soni, Tanushree Mitra, Eric Gilbert, and Jacob Eisenstein (2014), **Modeling Factuality Judgments in Social Media Text**, *Association of Computational Linguistics*, [PDF](https://www.aclweb.org/anthology/P14-2068.pdf)
 
 <br>
 
