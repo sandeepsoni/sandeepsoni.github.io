@@ -8,11 +8,9 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg">
 
-I research in modeling the dynamics of language with applications in computational social science and computational humanities. This work often involves the use of methods in unsupervised machine learning, natural language processing, and network science. My PhD thesis was on using computational methods to model and quantify network influence in the process of language change.
+My research is in the area of natural language processing and cultural analytics to answer questions in social sciences and humanities. This work often involves the use of methods in machine learning, text analysis, and network science. 
 
-I'm currently a postdoctoral researcher in the [School of Information](https://www.ischool.berkeley.edu) at the [University of California, Berkeley](https://www.berkeley.edu), advised by [David Bamman](https://people.ischool.berkeley.edu/~dbamman). I did my PhD in Computer Science from the [School of Interactive Computing](https://www.ic.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by [Jacob Eisenstein](https://jacobeisenstein.github.io/). I have been a research intern at places like [Microsoft Research](https://www.microsoft.com/en-us/research/), [Max Plank Institute of Software Systems](https://www.mpi-sws.org/), and [Information Sciences Institute](https://www.isi.edu/).
-
-I'm on the job market looking for academic and industry positions that start from Fall 2023.
+Before Emory, I received my PhD in the [School of Interactive Computing](https://www.ic.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by [Jacob Eisenstein](https://jacobeisenstein.github.io/). My PhD thesis was on using computational methods to model and quantify network influence in the process of language change. I was also a postdoctoral scholar in the [School of Information](https://www.ischool.berkeley.edu) at the [University of California, Berkeley](https://www.berkeley.edu), advised by [David Bamman](https://people.ischool.berkeley.edu/~dbamman). During my postdoc, I worked on building natural language processing methods for literature.
 
 <br> 
 
@@ -20,6 +18,11 @@ I'm on the job market looking for academic and industry positions that start fro
 
 <table style="width:100%">	  
 
+  <tr>
+  <td width="15%"> Aug 2023</td>
+  <td> I joined the <a href="https://quantitative.emory.edu/"> Quantitative Theory and Methods </a> department at Emory University as Assistant Professor </td>
+  </tr>
+  
   <tr>
   <td width="15%"> May 2023</td>
   <td> Our paper, <i> Grounding Characters and Places in Narrative Texts </i> is accepted to ACL 2023. Joint work with Amanpreet Sihra, Elizabeth F. Evans, Matthew Wilkens, and David Bamman. </td>
@@ -35,12 +38,13 @@ I'm on the job market looking for academic and industry positions that start fro
   <td> Our paper, <i>Predicting Long-Term Citations using Short-Term Linguistic Influence</i> is accepted to Findings@EMNLP 2022. Joint work with David Bamman and Jacob Eisenstein.</td>
   </tr>  
 
+  <!--
   <tr>
   <td width="15%"> Jan 2022</td>
   <td> I presented the tutorial on language change and variation virtually at ICWSM 2022</td>
   </tr>
 
-  <!--  
+    
   <tr>
   <td width="15%"> Oct 2021</td>
   <td> I collaborated with <a href="https://ccgilroy.com/"> Connor Gilroy </a> to give an online tutorial on language change and variation for the <a href="https://nlp-css-201-tutorials.github.io/nlp-css-201-tutorials/"> NLP+CSS 201 tutorial series </a>. Check out the <a href="https://github.com/sandeepsoni/comparing-word2vec-models">material</a> we prepared.</td>
