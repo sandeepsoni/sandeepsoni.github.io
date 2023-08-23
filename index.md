@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="pic.jpg">
 
-My research is in the area of natural language processing and cultural analytics to answer questions in social sciences and humanities. This work often involves the use of methods in machine learning, text analysis, and network science. 
+I'm an Assistant Professor in the Quantitative Theory and Methods department of Emory University. My research is in the area of natural language processing and cultural analytics to answer questions in social sciences and humanities. This work often involves the use of methods in machine learning, text analysis, and network science. 
 
 Before Emory, I received my PhD in the [School of Interactive Computing](https://www.ic.gatech.edu/) at [Georgia Institute of Technology](https://www.gatech.edu/), where I was advised by [Jacob Eisenstein](https://jacobeisenstein.github.io/). My PhD thesis was on using computational methods to model and quantify network influence in the process of language change. I was also a postdoctoral scholar in the [School of Information](https://www.ischool.berkeley.edu) at the [University of California, Berkeley](https://www.berkeley.edu), advised by [David Bamman](https://people.ischool.berkeley.edu/~dbamman). During my postdoc, I worked on building natural language processing methods for literature.
 
