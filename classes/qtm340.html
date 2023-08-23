@@ -1,0 +1,472 @@
+<!DOCTYPE HTML>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Approaches to Data Science with Text </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="no-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<section id="header">
+
+					<!-- Logo -->
+						<h1><a href="https://sandeepsoni.github.io/classes/no-sidebar.html">Approaches to Data Science with Text </a></h1>
+						<p>
+							QTM 340. Fall 2023
+							<br>
+							M/W 2:30-3:45pm, Rich Building, Room 104, Emory 
+							<br> 
+							<a href="https://sandeepsoni.github.io/">Sandeep Soni</a> (sandeep.soni@emory.edu)
+						</p>
+
+						<p>
+  							Course repo: <a href="https://github.com/sandeepsoni/QTM340-Fall23">https://github.com/sandeepsoni/QTM340-Fall23</a>
+						</p>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li class="current"><a href="#info">Info</a></li>
+								<li><a href="#prereqs">Prereqs</a></li>
+								<li><a href="#syllabus">Schedule</a></li>
+								<li><a href="#grading">Grading</a></li>
+								<li><a href="#project">Project</a></li>
+								<li><a href="#policies">Policies</a></li>
+							</ul>
+						</nav>
+
+				</section>
+
+			<!-- Main -->
+				<section id="main">
+					<div class="container">
+
+						<!-- Content -->
+							<article id="info" class="box post">
+								<header>
+									<h2>Info</h2>
+								</header>
+								<p>
+									This course introduces the students a set of methods to transform, model, analyze, and reason about text as 
+									data. Over the course of the semester, we'll learn to apply natural language processing methods to problems 
+									that span the areas of social sciences and humanities where the data is in the form of text.
+								</p>
+
+								<p>
+									The objective of the course is for the students to learn the application of text processing libraries 
+									including <a href="https://scikit-learn.org/stable/">scikit-learn</a>, 
+									<a href="https://radimrehurek.com/gensim/">gensim</a>, <a href="https://spacy.io/">spacy</a>, 
+									and <a href="https://huggingface.co/">huggingface</a> on problems; learn techniques to collect and label 
+									text; perform exploratory data analysis; learn to statistically test hypotheses using textual data; represent 
+									text both in terms of linguistic structure features and low-dimensional distributed representations of words, 
+									sentences, and documents; perform text-driven prediction; and learn about ethical issues surrounding the use 
+									of text as data.
+								</p>
+
+								<p>
+									The course is targeted towards undergraduate students from various disciplines such as computer science, law, 
+									sociology, etc. No formal technical background is assumed though some programming knowledge in Python is 
+									expected (tutorials on Python will be shared before the course starts).
+								</p>
+
+								<p>
+									<em> What this course is not about?</em> This is not a course to learn the intricate details such of the 
+									algorithms or the model architectures that power natural language processing methods; see CS 329 if you want 
+									to learn that. Instead, we'll focus on using NLP methods as algorithmic instruments to perform measurements 
+									on text data, and, through practice, learn the underlying challenges in this enterprise.
+								</p>
+								<section>
+								<header> <h3> Office hours </h3>
+								</header>
+									<p>
+										Sandeep Soni (PAIS 588)
+										<li>Tuesday, 11am-12pm, or by appointment </li>
+									</p>
+								</section>
+							</article>
+					
+							<article id="prereqs" class="box post">
+								<header>
+									<h2>Prerequisites</h2>
+								</header>
+								<p>
+									QTM 151 or CS 170; no technical background in data science is assumed but students are expected to know the 
+									basics of programming, such as in Python.
+								</p>
+							</article>
+
+							<article id="syllabus" class="box post">
+							<section>
+								<header>
+									<h2>Syllabus</h2>
+								</header>
+								<p>(Subject to change.)</p>
+
+								<table border="1">
+								<thead>
+									<tr>
+    										<td>Week</td>
+										<td width="10%">Date</td>
+										<td width="30%">Topic</td>
+										<td width="25%">Readings</td>
+										<td width="20%">Optional</td>
+									</tr>
+								</thead>
+
+								<tbody>
+									<tr>
+
+									</tr>
+
+								<!-- Week 1 -->
+									<tr>
+										<td rowspan="1">1</td>
+										<td>8/23</td>
+										<td>Introduction</td>
+										<td><a href="https://www.frontiersin.org/articles/10.3389/frai.2020.00062/full">Nguyen et al. 2020</a></td>
+										<td><a href="https://arxiv.org/abs/2305.03514">Ziems et al. 2023</a></td>
+									</tr>
+
+								<!-- Week 2 -->
+									<tr>
+										<td rowspan="2">2</td>
+										<td>8/28</td>
+										<td>Programming primer</td>
+										<td><a href="https://www.nltk.org/book/ch01.html">NLTK 1.2 and 1.4 </a>; <a href="https://pandas.pydata.org/docs/user_guide/10min.html">Pandas intro</a></td>
+										<td><a href="https://www.kaggle.com/learn/python">Kaggle course on python</a></td>
+									</tr>
+
+									<tr>
+										<td>8/30</td>
+										<td>Data collection</td>
+  										<td><a href="https://medium.com/epfl-extension-school/an-illustrated-introduction-to-apis-10f8000313b9">Xavier 2019 </a> </td>
+  										<td><a href="https://realpython.com/python-web-scraping-practical-introduction/">Amos 2022</a></td>
+									</tr>
+
+								<!-- Week 3 -->
+									<tr>
+										<td rowspan="2">3</td>
+										<td>9/4</td>
+										<td><font color="#ff00ff">Labor day (no class)</font> </td>
+  										<td></td>
+										<td></td>
+									</tr>
+
+									<tr>
+  										<td>9/6</td>
+  										<td>Words</td>
+										<td> </td>
+  										<td> </td>
+									</tr>
+
+								<!-- Week 4 -->
+									<tr>
+										<td rowspan="2">4</td>
+										<td>9/11</td>
+										<td>Documents </td>
+										<td></td>
+										<td></td>
+									</tr>
+
+									<tr>
+  										<td>9/13</td>
+										<td>What can we do with words? </td>
+										<td></td>
+										<td></td>
+									</tr>
+
+								<!-- Week 5 -->
+									<tr>
+										<td rowspan="2">5</td>
+										<td>9/18</td>
+  										<td>EDA: Clustering </td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>9/20</td>
+  										<td>EDA: Topic modeling </td>
+  										<td></td>
+										<td></td>
+									</tr>
+
+								<!-- Week 6 -->
+									<tr>
+										<td rowspan="2">6</td>
+										<td>9/25</td>
+										<td>Classification I </td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>9/27</td>
+  										<td>Classification II</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+								<!-- Week 7 -->
+									<tr>
+										<td rowspan="2">7</td>
+										<td>10/2</td>
+										<td>Classification III </td>
+										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>10/4</td>
+  										<td>Hypothesis testing</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+								<!-- Week 8 -->
+									<tr>
+										<td rowspan="2">8</td>
+										<td>10/9</td>
+  										<td>Data annotation</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>10/11</td>
+  										<td><font color="#ff00ff">Fall break (no class)</font></td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+								<!-- Week 9 -->
+									<tr>
+										<td rowspan="2">9</td>
+										<td>10/16</td>
+  										<td>Word embeddings</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>10/18</td>
+  										<td>Applications of word embeddings</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+								<!-- Week 10 -->
+									<tr>
+										<td rowspan="2">10</td>
+										<td>10/23</td>
+										<td>Language modeling I </td>
+										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>10/25</td>
+  										<td>Language modeling II </td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+								<!-- Week 11 -->
+									<tr>
+										<td rowspan="2">11</td>
+										<td>10/30</td>
+  										<td>Contextual embeddings</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>11/1</td>
+  										<td>LLMs: Applications and ethical considerations</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+								<!-- Week 12 -->
+									<tr>
+										<td rowspan="2">12</td>
+										<td>11/6</td>
+  										<td>Beyond words</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>11/8</td>
+  										<td>Part of speech tagging </td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+								<!-- Week 13 -->
+									<tr>
+										<td rowspan="2">13</td>
+										<td>11/13</td>
+  										<td>Named entities</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>11/15</td>
+  										<td>Parsing</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+								<!-- Week 14 -->
+									<tr>
+										<td rowspan="2">14</td>
+										<td>11/20</td>
+										<td>Coreference resolution</td>
+  										<td></td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>11/22</td>
+  										<td>Information extraction</td>
+										<td></td>
+										<td></td>
+									</tr>
+
+								<!-- Week 15 -->
+									<tr>
+										<td rowspan="2">15</td>
+										<td>11/27</td>
+  										<td>Project presentations </td>
+  										<td></td>
+									</tr>
+
+									<tr>
+  										<td>11/29</td>
+  										<td>Project presentations </td>
+  										<td></td>
+									</tr>
+
+								<!-- Week 16 -->
+									<tr>
+										<td rowspan="1">16</td>
+										<td>12/4</td>
+  										<td><font color="#ff00ff">Project report submission (no class)</font></td>
+  										<td></td>
+									</tr>
+
+								</tbody>
+							</table>
+						</section>
+					</article>
+
+					<article id="grading" class="box post">
+					<section>
+						<header>
+							<h2>Grading</h2>
+						</header>
+
+						<table width="30%">
+							<tbody>
+								<tr>
+									<td width="5%"> 10%</td>
+									<td width="20%">Participation</td>
+								</tr>
+
+								<tr>
+									<td width="5%"> 16%</td>
+									<td width="20%">Homeworks</td>
+								</tr>
+
+								<tr>
+									<td width="5%"> 24%</td>
+									<td width="20%">Problem sets</td>
+								</tr>
+
+								<tr>
+									<td>50%</td>
+									<td>Project:</td>
+								</tr>
+
+								<tr>
+									<td>&nbsp;</td>
+									<td>&nbsp;&nbsp;&nbsp;&nbsp;5% Proposal/literature review</td>
+								</tr>
+								<tr>
+									<td>&nbsp;</td>
+									<td>&nbsp;&nbsp;&nbsp;&nbsp;15% Midterm report</td>
+								</tr>
+								<tr>
+									<td>&nbsp;</td>
+									<td>&nbsp;&nbsp;&nbsp;&nbsp;25% Final report</td>
+								</tr>
+								<tr>
+									<td>&nbsp;</td>
+									<td>&nbsp;&nbsp;&nbsp;&nbsp;5% Presentation</td>
+								</tr>
+
+							</tbody>
+						</table>
+					</section>
+					</article>
+
+					<article id="project" class="box post">
+						<section>
+							<header>
+								<h2>Project</h2>
+							</header>
+
+							<p> 
+								More details coming soon!
+							</p>
+						</section>
+					</article>
+
+					<article id="policies" class="box post">
+						<section>
+							<header>
+      								<h2>Policies</h2>
+      							</header>
+      
+						<h3>Academic Integrity</h3>
+						<p>
+							All students will follow the Emory <a href="https://oxford.emory.edu/catalog/regulations/honor-code.html">honor code</a>. 
+							With the exception of the group project, in which collaboration is allowed and encouraged, all submissions (homeworks 
+							and problem sets) must be completed independently.
+							The use of large language models (eg. ChatGPT) is not allowed for writing as well as source code.
+							Both for writing and source code, cite the appropriate source if you end up mentioning or using someone else's work.
+							All submission deadlines for homeworks and project deliverables will be strictly enforced; 
+							exceptions will be made on a case-by-case basis and only if the student has a valid reason for needing an exception. 
+							Students who violate the Honor Code may be subject to a variety of sanctions and are likely to fail the course.
+						</p>
+
+      						<h3>Students with Disabilities</h3>
+      						<p> 
+							We will strive to make the class accessible to all students. To this end, if you need disability-related accommodations and 
+							have an accommodation letter from OAS, please inform me.
+						</p>
+
+					</div>
+				</section>
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
